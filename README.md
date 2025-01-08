@@ -160,5 +160,4 @@ This script is intended for ethical and authorized use only. Unauthorized use on
 This project is licensed under the MIT License.
 
 ## Author
-[Paul Ammann]
-
+Paul Ammann
