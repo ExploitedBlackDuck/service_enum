@@ -1,0 +1,6 @@
+# File: input_services.yaml
+ip: "192.168.1.100"
+services:
+  - smb
+  - ldap
+  - ftp
